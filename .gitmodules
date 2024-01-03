@@ -1,0 +1,3 @@
+[submodule "CircuitPython_LCD"]
+	path = CircuitPython_LCD
+	url = https://github.com/dhalbert/CircuitPython_LCD.git
